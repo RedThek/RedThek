@@ -3,7 +3,7 @@
 
 - 👋 Hi its RedThek
 - 🔭 I’m currently working on computer networks
-- 🌱 I’m currently studying computer and telecommunication engineering
+- 🌱 I’m actually studying computer science and telecommunication engineering
 - 👀 I'm interested in data science, IoT, smart networks and signal processing
 - 👯 I’m eager to collaborate on any project available
 - 🤔 I’m looking for help in network automation
